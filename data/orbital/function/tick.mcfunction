@@ -1,5 +1,5 @@
-# Проверяем использование удочки каждые тик
-execute as @a[scores={used_rod=1..}] run function orbital:special_rod/check_usage
+execute as @a if predicate orbital:has_special_rod at @s run function orbital:osc_rod/check_bobber_power_1
 
-team join red @e[tag=tnt_red]
-scoreboard players reset @a used_rod
+execute as @a if predicate orbital:has_special_rod_two at @s run function orbital:osc_rod/check_bobber_power_2
+
+execute as @a if predicate orbital:has_special_rod_three at @s run function orbital:osc_rod/check_bobber_power_3

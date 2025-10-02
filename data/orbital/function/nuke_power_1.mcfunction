@@ -1,3 +1,4 @@
+tellraw @a "1"
 summon tnt ~-2.0 ~95 ~0.0 {fuse:100}
 summon tnt ~-1.9 ~95 ~0.1 {fuse:100}
 summon tnt ~-1.8 ~95 ~0.2 {fuse:100}
