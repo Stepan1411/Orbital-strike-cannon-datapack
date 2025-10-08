@@ -23,14 +23,23 @@ Watch the Death Star fall!
 Give the fishing rod:
 
 Commands
+
 /function orbital:special_rod/give_orbital_strike_power_1
+
 /function orbital:special_rod/give_orbital_strike_power_2
+
 /function orbital:special_rod/give_orbital_strike_power_3
+
 /function orbital:special_rod/give_orbital_strike_stab (in dev)
 Manual launch:
 
 Commands
+
+
 /function orbital:nuke_power_1
+
 /function orbital:nuke_power_2
+
 /function orbital:nuke_power_2
+
 /function orbital:old_cannon (old cannon v1-v2)
