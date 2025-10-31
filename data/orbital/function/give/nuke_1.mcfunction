@@ -1,0 +1,1 @@
+give @s fishing_rod[damage=63,custom_data={nuke_1:1b},minecraft:custom_name=[{"text":"NUKE POWER 1","italic":false}]]

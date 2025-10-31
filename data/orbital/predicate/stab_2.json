@@ -7,7 +7,7 @@
         "items": ["minecraft:fishing_rod"],
         "components": {
           "minecraft:custom_data": {
-            "orbital_special_three": 1
+            "stab_2": 1
           }
         }
       }

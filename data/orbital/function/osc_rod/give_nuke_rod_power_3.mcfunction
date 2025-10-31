@@ -1,1 +1,0 @@
-give @a fishing_rod[custom_name=[{"text":"ORBITAL STRIKE CANNON","italic":false,"color":"red"},{"text":" (nuke power 3)","italic":false,"color":"dark_red"}],lore=[[{"text":"BIG BOOM 💥","italic":false,"color":"red"}]],custom_model_data={strings:["osc"]},damage=63,custom_data={orbital_special_three:1b},tooltip_display={hidden_components:[]}]

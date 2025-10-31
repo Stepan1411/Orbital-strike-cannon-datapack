@@ -1,0 +1,1 @@
+give @s fishing_rod[damage=63,custom_data={stab_2:1b},minecraft:custom_name=[{"text":"STAB POWER 2","italic":false}]]

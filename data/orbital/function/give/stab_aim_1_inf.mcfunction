@@ -1,0 +1,1 @@
+give @s fishing_rod[custom_data={stab_aim_1_inf:1b},minecraft:custom_name=[{"text":"STAB POWER 1 (aim infinity)","italic":false}]]

@@ -1,1 +1,2 @@
 tellraw @a [{text:"Orbital Strike DataPack by ",color:gold},{text:"Stepan1411",color:red,click_event:{action:"open_url",url:"https://modrinth.com/user/Stepan1411_Studio"}}]
+gamerule maxCommandChainLength 999999999

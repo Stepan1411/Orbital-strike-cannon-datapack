@@ -4,10 +4,10 @@
   "predicate": {
     "equipment": {
       "mainhand": {
-        "items": "minecraft:fishing_rod",
+        "items": ["minecraft:fishing_rod"],
         "components": {
           "minecraft:custom_data": {
-            "orbital_special": 1
+            "stab_1": 1
           }
         }
       }
