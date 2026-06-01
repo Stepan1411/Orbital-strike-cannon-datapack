@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": ["minecraft:fishing_rod"],
+        "components": {
+          "minecraft:custom_data": {
+            "nuke_aim_3": 1
+          }
+        }
+      }
+    }
+  }
+}

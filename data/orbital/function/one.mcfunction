@@ -1,0 +1,2 @@
+scoreboard players set craft_toggle_ craft_toggle_ 1
+scoreboard players set toggle_message_ toggle_message_ 1

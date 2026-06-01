@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RTR",
+    " T ",
+    "TFT"
+  ],
+  "key": {
+    "R": [
+      "minecraft:redstone"
+    ],
+    "T": [
+      "minecraft:tnt"
+    ],
+    "F": [
+      "minecraft:fishing_rod"
+    ]
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "components": {
+      "minecraft:custom_data": "{recipe_stab_3_aim:1b}",
+      "minecraft:custom_name": {
+        "text": "STAB POWER 3 (aim)",
+        "italic": false
+      }
+    }
+  }
+}

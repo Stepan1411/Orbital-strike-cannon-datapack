@@ -1,0 +1,1 @@
+give @s fishing_rod[custom_name='[{"text":"STAB POWER 3 (aim infinity)","italic":false}]',custom_data={stab_aim_3_inf:1b}]

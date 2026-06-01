@@ -1,0 +1,1 @@
+scoreboard players set test test_load 1
