@@ -1,0 +1,2 @@
+give @s fishing_rod[damage=63,custom_name='[{"text":"CINEMATIC NUKE AIM","italic":false}]',custom_data={c_nuke_aim:1b}]
+tellraw @a [{"text":"!WARNING! This charge is very powerful and can ","color":"red"},{"text":"corrupt world ","underlined":true,"color":"red"},{"text":"or ","color":"red"},{"text":"freeze Minecraft","underlined":true,"color":"red"},{"text":". Use it at your own ","color":"red"},{"text":"risk","underlined":true,"color":"red"},{"text":".","color":"red"}]

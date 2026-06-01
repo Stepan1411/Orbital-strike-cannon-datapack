@@ -1,1 +1,0 @@
-give @s fishing_rod[custom_model_data={strings:["osc"]},custom_data={orbital_special:1b},damage=63,custom_name={text:"ORBITAL STRIKE CANNON (nuke shot}",color:red}]

@@ -1,5 +1,6 @@
 {
   "values": [
-    "orbital:load"
+    "orbital:load",
+	"orbital:check_func_load"
   ]
 }

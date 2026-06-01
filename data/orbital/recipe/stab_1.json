@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "TFT"
+  ],
+  "key": {
+    "T": [
+      "minecraft:tnt"
+    ],
+    "F": [
+      "minecraft:fishing_rod"
+    ]
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "components": {
+      "minecraft:custom_data": "{recipe_stab_1:1b}",
+      "minecraft:custom_name": {
+        "text": "STAB POWER 1",
+        "italic": false
+      }
+    }
+  }
+}

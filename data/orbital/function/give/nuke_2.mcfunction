@@ -1,0 +1,1 @@
+give @s fishing_rod[damage=63,custom_name='[{"text":"NUKE POWER 2","italic":false}]',custom_data={nuke_2:1b}]

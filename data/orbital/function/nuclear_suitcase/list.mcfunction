@@ -1,0 +1,7 @@
+tellraw @s [{"text":"===","color":"red"},{"text":"ALL CHARGES","color":"gold"},{"text":"===","color":"red"}]
+execute at @e[type=minecraft:marker,tag=osc,tag=stab_1] run tellraw @s [{"text":"[STAB-1] ","color":"red"},{"nbt":"Pos","entity":"@n"}]
+execute at @e[type=minecraft:marker,tag=osc,tag=stab_2] run tellraw @s [{"text":"[STAB-2] ","color":"red"},{"nbt":"Pos","entity":"@n"}]
+execute at @e[type=minecraft:marker,tag=osc,tag=stab_3] run tellraw @s [{"text":"[STAB-3] ","color":"red"},{"nbt":"Pos","entity":"@n"}]
+execute at @e[type=minecraft:marker,tag=osc,tag=nuke_1] run tellraw @s [{"text":"[NUKE-1] ","color":"red"},{"nbt":"Pos","entity":"@n"}]
+execute at @e[type=minecraft:marker,tag=osc,tag=nuke_2] run tellraw @s [{"text":"[NUKE-2] ","color":"red"},{"nbt":"Pos","entity":"@n"}]
+execute at @e[type=minecraft:marker,tag=osc,tag=nuke_3] run tellraw @s [{"text":"[NUKE-3] ","color":"red"},{"nbt":"Pos","entity":"@n"}]

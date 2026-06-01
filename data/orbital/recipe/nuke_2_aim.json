@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RTR",
+    "TFT",
+    "T T"
+  ],
+  "key": {
+    "R": [
+      "minecraft:redstone"
+    ],
+    "T": [
+      "minecraft:tnt"
+    ],
+    "F": [
+      "minecraft:fishing_rod"
+    ]
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "components": {
+      "minecraft:custom_data": "{recipe_nuke_2_aim:1b}",
+      "minecraft:custom_name": {
+        "text": "NUKE POWER 2 (aim)",
+        "italic": false
+      }
+    }
+  }
+}

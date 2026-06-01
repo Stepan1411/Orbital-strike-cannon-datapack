@@ -1,5 +1,8 @@
 {
   "values": [
-    "orbital:tick"
+    "orbital:tick_recipe_func",
+    "orbital:tick_rod",
+    "orbital:tick_trigger",
+	"orbital:tick_recipe_give"
   ]
 }
